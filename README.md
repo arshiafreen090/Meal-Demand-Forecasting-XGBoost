@@ -12,6 +12,14 @@ The model forecasts future weekly meal demand for operational planning, inventor
 
 ---
 
+# Live Demo
+
+> Time-series demand forecasting system for meal delivery operations using XGBoost, historical demand patterns, and operational features.
+
+[**Open Live Streamlit App →**](https://meal-demand-forecasting-and-inventory-planning.streamlit.app/)
+
+---
+
 ## Overview
 
 Meal delivery companies need to estimate future demand across meals and fulfillment centers before orders arrive. The objective is to predict `num_orders` for future weeks using historical demand patterns and operational information.
@@ -508,3 +516,4 @@ streamlit run app.py
 
 - [GitHub Repository](https://github.com/arshiafreen090/Meal-Demand-Forecasting-XGBoost)
 - [Meal Demand Forecasting Dataset — Kaggle](https://www.kaggle.com/datasets/sureshmecad/meal-demand-forecasting)
+- [Live App](https://meal-demand-forecasting-and-inventory-planning.streamlit.app/)
