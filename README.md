@@ -39,12 +39,12 @@ For each **fulfillment center × meal × future week** combination, the system e
 
 The forecast can support:
 
-- raw material planning
-- meal preparation capacity
-- fulfillment-center demand planning
-- inventory planning
-- understanding demand variation across meals and centers
-- analyzing the relationship between promotions and demand
+- raw material planning.
+- meal preparation capacity.
+- fulfillment-center demand planning.
+- inventory planning.
+- understanding demand variation across meals and centers.
+- analyzing the relationship between promotions and demand.
 
 ---
 
