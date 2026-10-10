@@ -514,6 +514,6 @@ streamlit run app.py
 
 ## Resources
 
+- [Live App](https://meal-demand-forecasting-and-inventory-planning.streamlit.app/)
 - [GitHub Repository](https://github.com/arshiafreen090/Meal-Demand-Forecasting-XGBoost)
 - [Meal Demand Forecasting Dataset — Kaggle](https://www.kaggle.com/datasets/sureshmecad/meal-demand-forecasting)
-- [Live App](https://meal-demand-forecasting-and-inventory-planning.streamlit.app/)
